@@ -167,7 +167,7 @@
 
 
 	// Colllections:List, Set, maps
-	// List
+	// List: a dynamic array
     	br();
 	List<int> ages = [21, 23, 56, 78, 19];
 	//print List
